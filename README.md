@@ -57,4 +57,4 @@ To combine software, IoT, embedded systems, and robotics to create innovative so
 
 ⚡ THINK • DESIGN • DEVELOP • BUILD • INNOVATE
 
-Thanks for visiting my GitHub profile! ⭐
+Thanks for visiting my GitHub profile! 
